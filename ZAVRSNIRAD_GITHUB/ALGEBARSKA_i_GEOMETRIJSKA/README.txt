@@ -1,0 +1,3 @@
+U mapama "BIJELA POZADINA" i "ZELENA POZADINA" nalaze se rezultati za sve objekte ovisno o pozadini. Svaka od njih sadrži sliku objekta, "edge-detection" sliku te slike "fitane" kružnice metodom minimizacije algebarske udaljenosti i metodom minimizacije geometrijske udaljenosti.
+
+Također, priložen je kod za obje metode kako bi korisnik mogao pozvati obje metode na "edge-detection" slikama te vidjeti MSE vrijednost i konačan rezultat klasifikacije (True/False).
